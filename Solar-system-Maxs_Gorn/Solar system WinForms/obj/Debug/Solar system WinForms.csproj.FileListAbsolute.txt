@@ -1,0 +1,30 @@
+C:\Users\MAKS\Downloads\Solar-system-WinForms-master\Solar-system-WinForms-master\Solar system WinForms\bin\Debug\Solar system WinForms.exe.config
+C:\Users\MAKS\Downloads\Solar-system-WinForms-master\Solar-system-WinForms-master\Solar system WinForms\bin\Debug\Solar system WinForms.exe
+C:\Users\MAKS\Downloads\Solar-system-WinForms-master\Solar-system-WinForms-master\Solar system WinForms\bin\Debug\Solar system WinForms.pdb
+C:\Users\MAKS\Downloads\Solar-system-WinForms-master\Solar-system-WinForms-master\Solar system WinForms\obj\Debug\Solar system WinForms.csprojAssemblyReference.cache
+C:\Users\MAKS\Downloads\Solar-system-WinForms-master\Solar-system-WinForms-master\Solar system WinForms\obj\Debug\Solar_system_WinForms.Form1.resources
+C:\Users\MAKS\Downloads\Solar-system-WinForms-master\Solar-system-WinForms-master\Solar system WinForms\obj\Debug\Solar_system_WinForms.Properties.Resources.resources
+C:\Users\MAKS\Downloads\Solar-system-WinForms-master\Solar-system-WinForms-master\Solar system WinForms\obj\Debug\Solar system WinForms.csproj.GenerateResource.cache
+C:\Users\MAKS\Downloads\Solar-system-WinForms-master\Solar-system-WinForms-master\Solar system WinForms\obj\Debug\Solar system WinForms.exe
+C:\Users\MAKS\Downloads\Solar-system-WinForms-master\Solar-system-WinForms-master\Solar system WinForms\obj\Debug\Solar system WinForms.pdb
+D:\Мої проекти\Solar-system-WinForms-master\Solar system WinForms\bin\Debug\Solar system WinForms.exe.config
+D:\Мої проекти\Solar-system-WinForms-master\Solar system WinForms\bin\Debug\Solar system WinForms.exe
+D:\Мої проекти\Solar-system-WinForms-master\Solar system WinForms\bin\Debug\Solar system WinForms.pdb
+D:\Мої проекти\Solar-system-WinForms-master\Solar system WinForms\obj\Debug\Solar system WinForms.csprojAssemblyReference.cache
+D:\Мої проекти\Solar-system-WinForms-master\Solar system WinForms\obj\Debug\Solar_system_WinForms.Properties.Resources.resources
+D:\Мої проекти\Solar-system-WinForms-master\Solar system WinForms\obj\Debug\Solar system WinForms.csproj.GenerateResource.cache
+D:\Мої проекти\Solar-system-WinForms-master\Solar system WinForms\obj\Debug\Solar system WinForms.exe
+D:\Мої проекти\Solar-system-WinForms-master\Solar system WinForms\obj\Debug\Solar system WinForms.pdb
+D:\Мої проекти\Solar-system-WinForms-master\Solar system WinForms\obj\Debug\Maxs_Gorn_Solar_system.Form1.resources
+D:\Мої проекти\Solar-system-Maxs_Gorn\Solar system WinForms\bin\Debug\Solar system WinForms.exe.config
+D:\Мої проекти\Solar-system-Maxs_Gorn\Solar system WinForms\bin\Debug\Solar system WinForms.exe
+D:\Мої проекти\Solar-system-Maxs_Gorn\Solar system WinForms\bin\Debug\Solar system WinForms.pdb
+D:\Мої проекти\Solar-system-Maxs_Gorn\Solar system WinForms\obj\Debug\Solar system WinForms.csprojAssemblyReference.cache
+D:\Мої проекти\Solar-system-Maxs_Gorn\Solar system WinForms\obj\Debug\Maxs_Gorn_Solar_system.Form1.resources
+D:\Мої проекти\Solar-system-Maxs_Gorn\Solar system WinForms\obj\Debug\Solar_system_WinForms.Properties.Resources.resources
+D:\Мої проекти\Solar-system-Maxs_Gorn\Solar system WinForms\obj\Debug\Solar system WinForms.csproj.GenerateResource.cache
+D:\Мої проекти\Solar-system-Maxs_Gorn\Solar system WinForms\obj\Debug\Solar system WinForms.exe
+D:\Мої проекти\Solar-system-Maxs_Gorn\Solar system WinForms\obj\Debug\Solar system WinForms.pdb
+D:\Мої проекти\Solar-system-Maxs_Gorn\Solar system WinForms\bin\Debug\ClassLibrary1.dll
+D:\Мої проекти\Solar-system-Maxs_Gorn\Solar system WinForms\bin\Debug\ClassLibrary1.pdb
+D:\Мої проекти\Solar-system-Maxs_Gorn\Solar system WinForms\obj\Debug\Solar system WinForms.csproj.CopyComplete

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.138
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solar system WinForms", "Solar system WinForms\Solar system WinForms.csproj", "{83A8E8BA-2F77-4C70-9D86-298011ADD309}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{3FAC156E-1CB4-45B7-81FC-1973123DDA5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83A8E8BA-2F77-4C70-9D86-298011ADD309}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83A8E8BA-2F77-4C70-9D86-298011ADD309}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83A8E8BA-2F77-4C70-9D86-298011ADD309}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83A8E8BA-2F77-4C70-9D86-298011ADD309}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FAC156E-1CB4-45B7-81FC-1973123DDA5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FAC156E-1CB4-45B7-81FC-1973123DDA5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FAC156E-1CB4-45B7-81FC-1973123DDA5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FAC156E-1CB4-45B7-81FC-1973123DDA5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82C3AC47-DBB8-4307-8302-CD0DF7DD64B7}
+	EndGlobalSection
+EndGlobal

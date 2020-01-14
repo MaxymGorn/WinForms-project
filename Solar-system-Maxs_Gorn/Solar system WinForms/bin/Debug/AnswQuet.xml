@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<ListQueAnsw xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <quetionAnswers>
+    
+    <QuetionAnswer>
+      <Quetion>Какая по счету от Солнца планета Земля?</Quetion>
+      <Answers>
+        <string>первая</string>
+        <string>вторая</string>
+        <string>третья</string>
+        <string>четвертая</string>
+        <string>пятая</string>
+        <string>шестая</string>
+      </Answers>
+      <otvet_int>4</otvet_int>
+    </QuetionAnswer>
+    
+    <QuetionAnswer>
+      <Quetion>Эта планета могла стать звездой, но не набрала достаточно массы:?</Quetion>
+      <Answers>
+        <string>Меркурий</string>
+        <string>Нептун</string>
+        <string>Сатурн</string>
+        <string>Юпитер</string>
+      </Answers>
+      <otvet_int>4</otvet_int>
+    </QuetionAnswer>
+
+    <QuetionAnswer>
+      <Quetion>Облако Оорта – это?</Quetion>
+      <Answers>
+        <string>сферическая область Солнечной системы</string>
+        <string>самый большой ураган на Юпитере</string>
+        <string> грозовой фронт на Венере</string>
+      </Answers>
+      <otvet_int>1</otvet_int>
+    </QuetionAnswer>
+
+    <QuetionAnswer>
+      <Quetion>Ближайшая к Солнцу планета:</Quetion>
+      <Answers>
+        <string>Венера</string>
+        <string>Уран</string>
+        <string>Земля</string>
+        <string>Юпитер</string>
+        <string>Марс</string>
+        <string>Меркурий</string>
+      </Answers>
+      <otvet_int>6</otvet_int>
+    </QuetionAnswer>
+
+    <QuetionAnswer>
+      <Quetion>Солнечная система является частью:</Quetion>
+      <Answers>
+        <string>Галактики Млечный путь</string>
+        <string>Галактики Андромеда</string>
+      </Answers>
+      <otvet_int>1</otvet_int>
+    </QuetionAnswer>
+
+    <QuetionAnswer>
+      <Quetion>Является ли Плутон планетой?</Quetion>
+      <Answers>
+        <string>является</string>
+        <string>не является</string>
+      </Answers>
+      <otvet_int>2</otvet_int>
+    </QuetionAnswer>
+
+    <QuetionAnswer>
+      <Quetion>Сколько всего планет в Солнечной системе?</Quetion>
+      <Answers>
+        <string>пять</string>
+        <string>десять</string>
+        <string>шесть</string>
+        <string>семь</string>
+        <string>восемь</string>
+        <string>девять</string>
+      </Answers>
+      <otvet_int>6</otvet_int>
+    </QuetionAnswer>
+  </quetionAnswers>
+</ListQueAnsw>
