@@ -1,0 +1,30 @@
+C:\Users\MAKS\Downloads\VGAPainter-master\VGAPainter-master\MaxsGorn\bin\Debug\MaxsGorn.dll
+C:\Users\MAKS\Downloads\VGAPainter-master\VGAPainter-master\MaxsGorn\bin\Debug\MaxsGorn.pdb
+C:\Users\MAKS\Downloads\VGAPainter-master\VGAPainter-master\MaxsGorn\obj\Debug\MaxsGorn.csprojAssemblyReference.cache
+C:\Users\MAKS\Downloads\VGAPainter-master\VGAPainter-master\MaxsGorn\obj\Debug\Maxs_Gorn.NewArtwork.resources
+C:\Users\MAKS\Downloads\VGAPainter-master\VGAPainter-master\MaxsGorn\obj\Debug\MaxsGorn.csproj.GenerateResource.cache
+C:\Users\MAKS\Downloads\VGAPainter-master\VGAPainter-master\MaxsGorn\obj\Debug\MaxsGorn.dll
+C:\Users\MAKS\Downloads\VGAPainter-master\VGAPainter-master\MaxsGorn\obj\Debug\MaxsGorn.pdb
+C:\Users\MAKS\Desktop\VGAPainter-master\VGAPainter-master\MaxsGorn\obj\Debug\MaxsGorn.csprojAssemblyReference.cache
+C:\Users\MAKS\Desktop\VGAPainter-master\VGAPainter-master\MaxsGorn\obj\Debug\Maxs_Gorn.NewArtwork.resources
+C:\Users\MAKS\Desktop\VGAPainter-master\VGAPainter-master\MaxsGorn\obj\Debug\MaxsGorn.csproj.GenerateResource.cache
+C:\Users\MAKS\Desktop\VGAPainter-master\VGAPainter-master\MaxsGorn\obj\Debug\MaxsGorn.dll
+C:\Users\MAKS\Desktop\VGAPainter-master\VGAPainter-master\MaxsGorn\obj\Debug\MaxsGorn.pdb
+C:\Users\MAKS\Desktop\VGAPainter-master\VGAPainter-master\MaxsGorn\bin\Debug\MaxsGorn.dll
+C:\Users\MAKS\Desktop\VGAPainter-master\VGAPainter-master\MaxsGorn\bin\Debug\MaxsGorn.pdb
+C:\Users\MAKS\Desktop\VGAPainter-master\PaintMaxGorn\MaxsGorn\bin\Debug\MaxsGorn.dll
+C:\Users\MAKS\Desktop\VGAPainter-master\PaintMaxGorn\MaxsGorn\bin\Debug\MaxsGorn.pdb
+C:\Users\MAKS\Desktop\VGAPainter-master\PaintMaxGorn\MaxsGorn\obj\Debug\MaxsGorn.csprojAssemblyReference.cache
+C:\Users\MAKS\Desktop\VGAPainter-master\PaintMaxGorn\MaxsGorn\obj\Debug\Maxs_Gorn.NewArtwork.resources
+C:\Users\MAKS\Desktop\VGAPainter-master\PaintMaxGorn\MaxsGorn\obj\Debug\MaxsGorn.csproj.GenerateResource.cache
+C:\Users\MAKS\Desktop\VGAPainter-master\PaintMaxGorn\MaxsGorn\obj\Debug\MaxsGorn.dll
+C:\Users\MAKS\Desktop\VGAPainter-master\PaintMaxGorn\MaxsGorn\obj\Debug\MaxsGorn.pdb
+D:\Мої проекти\PaintMaxGorn\MaxsGorn\bin\Debug\MaxsGorn.dll
+D:\Мої проекти\PaintMaxGorn\MaxsGorn\bin\Debug\MaxsGorn.pdb
+D:\Мої проекти\PaintMaxGorn\MaxsGorn\obj\Debug\MaxsGorn.csprojAssemblyReference.cache
+D:\Мої проекти\PaintMaxGorn\MaxsGorn\obj\Debug\Maxs_Gorn.NewArtwork.resources
+D:\Мої проекти\PaintMaxGorn\MaxsGorn\obj\Debug\MaxsGorn.csproj.GenerateResource.cache
+D:\Мої проекти\PaintMaxGorn\MaxsGorn\obj\Debug\MaxsGorn.dll
+D:\Мої проекти\PaintMaxGorn\MaxsGorn\obj\Debug\MaxsGorn.pdb
+D:\Мої проекти\PaintMaxGorn\MaxsGorn\obj\Debug\MaxsGorn.Crop.resources
+D:\Мої проекти\PaintMaxGorn\MaxsGorn\obj\Debug\MaxsGorn.Properties.Resources.resources

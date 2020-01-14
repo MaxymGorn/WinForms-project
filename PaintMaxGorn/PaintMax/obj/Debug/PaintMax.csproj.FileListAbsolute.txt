@@ -1,0 +1,66 @@
+C:\Users\MAKS\Downloads\VGAPainter-master\VGAPainter-master\VGAPainter\bin\Debug\VGAPainter.exe.config
+C:\Users\MAKS\Downloads\VGAPainter-master\VGAPainter-master\VGAPainter\bin\Debug\VGAPainter.exe
+C:\Users\MAKS\Downloads\VGAPainter-master\VGAPainter-master\VGAPainter\bin\Debug\VGAPainter.pdb
+C:\Users\MAKS\Downloads\VGAPainter-master\VGAPainter-master\VGAPainter\obj\Debug\PaintMax.csprojAssemblyReference.cache
+C:\Users\MAKS\Downloads\VGAPainter-master\VGAPainter-master\VGAPainter\obj\Debug\VGAPainter.Properties.Resources.resources
+C:\Users\MAKS\Downloads\VGAPainter-master\VGAPainter-master\VGAPainter\obj\Debug\PaintMax.csproj.GenerateResource.cache
+C:\Users\MAKS\Downloads\VGAPainter-master\VGAPainter-master\VGAPainter\obj\Debug\VGAPainter.exe
+C:\Users\MAKS\Downloads\VGAPainter-master\VGAPainter-master\VGAPainter\obj\Debug\VGAPainter.pdb
+C:\Users\MAKS\Downloads\VGAPainter-master\VGAPainter-master\VGAPainter\obj\Debug\Maxs_Gorn.MainForm.resources
+C:\Users\MAKS\Downloads\VGAPainter-master\VGAPainter-master\VGAPainter\bin\Debug\MaxsGorn.dll
+C:\Users\MAKS\Downloads\VGAPainter-master\VGAPainter-master\VGAPainter\bin\Debug\MaxsGorn.pdb
+C:\Users\MAKS\Downloads\VGAPainter-master\VGAPainter-master\VGAPainter\obj\Debug\PaintMax.csproj.CopyComplete
+C:\Users\MAKS\Desktop\VGAPainter-master\VGAPainter-master\VGAPainter\bin\Debug\VGAPainter.exe.config
+C:\Users\MAKS\Desktop\VGAPainter-master\VGAPainter-master\VGAPainter\bin\Debug\VGAPainter.exe
+C:\Users\MAKS\Desktop\VGAPainter-master\VGAPainter-master\VGAPainter\bin\Debug\VGAPainter.pdb
+C:\Users\MAKS\Desktop\VGAPainter-master\VGAPainter-master\VGAPainter\bin\Debug\MaxsGorn.dll
+C:\Users\MAKS\Desktop\VGAPainter-master\VGAPainter-master\VGAPainter\bin\Debug\MaxsGorn.pdb
+C:\Users\MAKS\Desktop\VGAPainter-master\VGAPainter-master\VGAPainter\obj\Debug\PaintMax.csprojAssemblyReference.cache
+C:\Users\MAKS\Desktop\VGAPainter-master\VGAPainter-master\VGAPainter\obj\Debug\Maxs_Gorn.MainForm.resources
+C:\Users\MAKS\Desktop\VGAPainter-master\VGAPainter-master\VGAPainter\obj\Debug\VGAPainter.Properties.Resources.resources
+C:\Users\MAKS\Desktop\VGAPainter-master\VGAPainter-master\VGAPainter\obj\Debug\PaintMax.csproj.GenerateResource.cache
+C:\Users\MAKS\Desktop\VGAPainter-master\VGAPainter-master\VGAPainter\obj\Debug\PaintMax.csproj.CopyComplete
+C:\Users\MAKS\Desktop\VGAPainter-master\VGAPainter-master\VGAPainter\obj\Debug\VGAPainter.exe
+C:\Users\MAKS\Desktop\VGAPainter-master\VGAPainter-master\VGAPainter\obj\Debug\VGAPainter.pdb
+C:\Users\MAKS\Desktop\VGAPainter-master\VGAPainter-master\VGAPainter\obj\Debug\Maxs_Gorn.AboutBox.resources
+C:\Users\MAKS\Desktop\VGAPainter-master\VGAPainter-master\PaintMax\obj\Debug\PaintMax.csprojAssemblyReference.cache
+C:\Users\MAKS\Desktop\VGAPainter-master\VGAPainter-master\PaintMax\obj\Debug\Maxs_Gorn.AboutBox.resources
+C:\Users\MAKS\Desktop\VGAPainter-master\VGAPainter-master\PaintMax\obj\Debug\Maxs_Gorn.MainForm.resources
+C:\Users\MAKS\Desktop\VGAPainter-master\VGAPainter-master\PaintMax\obj\Debug\PaintMax.csproj.GenerateResource.cache
+C:\Users\MAKS\Desktop\VGAPainter-master\VGAPainter-master\PaintMax\bin\Debug\MaxsGorn.pdb
+C:\Users\MAKS\Desktop\VGAPainter-master\VGAPainter-master\PaintMax\bin\Debug\MaxsGorn.dll
+C:\Users\MAKS\Desktop\VGAPainter-master\VGAPainter-master\PaintMax\obj\Debug\PaintMax.csproj.CopyComplete
+C:\Users\MAKS\Desktop\VGAPainter-master\VGAPainter-master\PaintMax\obj\Debug\MaxsGorm.Properties.Resources.resources
+C:\Users\MAKS\Desktop\VGAPainter-master\VGAPainter-master\PaintMax\obj\Debug\VGAPainter.exe
+C:\Users\MAKS\Desktop\VGAPainter-master\VGAPainter-master\PaintMax\obj\Debug\VGAPainter.pdb
+C:\Users\MAKS\Desktop\VGAPainter-master\VGAPainter-master\PaintMax\bin\Debug\VGAPainter.exe.config
+C:\Users\MAKS\Desktop\VGAPainter-master\VGAPainter-master\PaintMax\bin\Debug\VGAPainter.exe
+C:\Users\MAKS\Desktop\VGAPainter-master\VGAPainter-master\PaintMax\bin\Debug\VGAPainter.pdb
+C:\Users\MAKS\Desktop\VGAPainter-master\PaintMaxGorn\PaintMax\bin\Debug\MaxsGorn.dll
+C:\Users\MAKS\Desktop\VGAPainter-master\PaintMaxGorn\PaintMax\bin\Debug\MaxsGorn.pdb
+C:\Users\MAKS\Desktop\VGAPainter-master\PaintMaxGorn\PaintMax\obj\Debug\PaintMax.csprojAssemblyReference.cache
+C:\Users\MAKS\Desktop\VGAPainter-master\PaintMaxGorn\PaintMax\obj\Debug\Maxs_Gorn.AboutBox.resources
+C:\Users\MAKS\Desktop\VGAPainter-master\PaintMaxGorn\PaintMax\obj\Debug\Maxs_Gorn.MainForm.resources
+C:\Users\MAKS\Desktop\VGAPainter-master\PaintMaxGorn\PaintMax\obj\Debug\PaintMax.csproj.GenerateResource.cache
+C:\Users\MAKS\Desktop\VGAPainter-master\PaintMaxGorn\PaintMax\obj\Debug\PaintMax.csproj.CopyComplete
+C:\Users\MAKS\Desktop\VGAPainter-master\PaintMaxGorn\PaintMax\bin\Debug\PaintMax.exe.config
+C:\Users\MAKS\Desktop\VGAPainter-master\PaintMaxGorn\PaintMax\bin\Debug\PaintMax.exe
+C:\Users\MAKS\Desktop\VGAPainter-master\PaintMaxGorn\PaintMax\bin\Debug\PaintMax.pdb
+C:\Users\MAKS\Desktop\VGAPainter-master\PaintMaxGorn\PaintMax\obj\Debug\PaintMax.exe
+C:\Users\MAKS\Desktop\VGAPainter-master\PaintMaxGorn\PaintMax\obj\Debug\PaintMax.pdb
+C:\Users\MAKS\Desktop\VGAPainter-master\PaintMaxGorn\PaintMax\obj\Debug\MaxsGorn.Properties.Resources.resources
+D:\Мої проекти\PaintMaxGorn\PaintMax\bin\Debug\PaintMax.exe.config
+D:\Мої проекти\PaintMaxGorn\PaintMax\bin\Debug\PaintMax.exe
+D:\Мої проекти\PaintMaxGorn\PaintMax\bin\Debug\PaintMax.pdb
+D:\Мої проекти\PaintMaxGorn\PaintMax\bin\Debug\MaxsGorn.dll
+D:\Мої проекти\PaintMaxGorn\PaintMax\bin\Debug\MaxsGorn.pdb
+D:\Мої проекти\PaintMaxGorn\PaintMax\obj\Debug\PaintMax.csprojAssemblyReference.cache
+D:\Мої проекти\PaintMaxGorn\PaintMax\obj\Debug\Maxs_Gorn.AboutBox.resources
+D:\Мої проекти\PaintMaxGorn\PaintMax\obj\Debug\Maxs_Gorn.MainForm.resources
+D:\Мої проекти\PaintMaxGorn\PaintMax\obj\Debug\MaxsGorn.Properties.Resources.resources
+D:\Мої проекти\PaintMaxGorn\PaintMax\obj\Debug\PaintMax.csproj.GenerateResource.cache
+D:\Мої проекти\PaintMaxGorn\PaintMax\obj\Debug\PaintMax.csproj.CopyComplete
+D:\Мої проекти\PaintMaxGorn\PaintMax\obj\Debug\PaintMax.exe
+D:\Мої проекти\PaintMaxGorn\PaintMax\obj\Debug\PaintMax.pdb
+D:\Мої проекти\PaintMaxGorn\PaintMax\bin\Debug\PaintMax.xml
+D:\Мої проекти\PaintMaxGorn\PaintMax\obj\Debug\MaxsGorn.Gamma.resources
